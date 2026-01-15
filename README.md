@@ -1,6 +1,6 @@
 # 📊 Research Dataset Recommender
 
-An intelligent system that recommends datasets for research questions and generates analysis templates in the style of Decision Support & Research Services (DSRS).
+An intelligent system that recommends datasets for research questions and generates analysis templates.
 
 **Live Demo:** http://100.73.70.44:8506
 
