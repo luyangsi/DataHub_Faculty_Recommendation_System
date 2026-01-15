@@ -1,0 +1,1001 @@
+Complaint ID,Date received,Product,Issue
+0,2023-01-01,Mortgage,Billing
+1,2023-01-02,Mortgage,Fees
+2,2023-01-03,Student loan,Collections
+3,2023-01-04,Credit card,Billing
+4,2023-01-05,Student loan,Fees
+5,2023-01-06,Credit card,Billing
+6,2023-01-07,Student loan,Fees
+7,2023-01-08,Credit card,Billing
+8,2023-01-09,Credit card,Fees
+9,2023-01-10,Credit card,Collections
+10,2023-01-11,Credit card,Collections
+11,2023-01-12,Student loan,Billing
+12,2023-01-13,Mortgage,Collections
+13,2023-01-14,Student loan,Fees
+14,2023-01-15,Student loan,Fees
+15,2023-01-16,Student loan,Billing
+16,2023-01-17,Mortgage,Billing
+17,2023-01-18,Mortgage,Billing
+18,2023-01-19,Credit card,Billing
+19,2023-01-20,Credit card,Collections
+20,2023-01-21,Credit card,Billing
+21,2023-01-22,Credit card,Fees
+22,2023-01-23,Credit card,Fees
+23,2023-01-24,Student loan,Fees
+24,2023-01-25,Student loan,Collections
+25,2023-01-26,Student loan,Collections
+26,2023-01-27,Student loan,Billing
+27,2023-01-28,Student loan,Fees
+28,2023-01-29,Credit card,Fees
+29,2023-01-30,Student loan,Billing
+30,2023-01-31,Mortgage,Billing
+31,2023-02-01,Mortgage,Billing
+32,2023-02-02,Credit card,Collections
+33,2023-02-03,Mortgage,Billing
+34,2023-02-04,Student loan,Billing
+35,2023-02-05,Mortgage,Collections
+36,2023-02-06,Credit card,Collections
+37,2023-02-07,Mortgage,Fees
+38,2023-02-08,Student loan,Billing
+39,2023-02-09,Student loan,Billing
+40,2023-02-10,Student loan,Collections
+41,2023-02-11,Mortgage,Collections
+42,2023-02-12,Mortgage,Fees
+43,2023-02-13,Mortgage,Collections
+44,2023-02-14,Student loan,Collections
+45,2023-02-15,Credit card,Billing
+46,2023-02-16,Mortgage,Collections
+47,2023-02-17,Mortgage,Collections
+48,2023-02-18,Student loan,Billing
+49,2023-02-19,Mortgage,Collections
+50,2023-02-20,Credit card,Collections
+51,2023-02-21,Mortgage,Collections
+52,2023-02-22,Mortgage,Fees
+53,2023-02-23,Student loan,Collections
+54,2023-02-24,Student loan,Billing
+55,2023-02-25,Student loan,Billing
+56,2023-02-26,Mortgage,Fees
+57,2023-02-27,Student loan,Fees
+58,2023-02-28,Mortgage,Fees
+59,2023-03-01,Mortgage,Collections
+60,2023-03-02,Mortgage,Billing
+61,2023-03-03,Mortgage,Billing
+62,2023-03-04,Credit card,Collections
+63,2023-03-05,Mortgage,Fees
+64,2023-03-06,Credit card,Collections
+65,2023-03-07,Mortgage,Collections
+66,2023-03-08,Student loan,Fees
+67,2023-03-09,Student loan,Fees
+68,2023-03-10,Credit card,Collections
+69,2023-03-11,Mortgage,Fees
+70,2023-03-12,Credit card,Fees
+71,2023-03-13,Student loan,Fees
+72,2023-03-14,Credit card,Collections
+73,2023-03-15,Mortgage,Fees
+74,2023-03-16,Student loan,Collections
+75,2023-03-17,Credit card,Billing
+76,2023-03-18,Credit card,Fees
+77,2023-03-19,Credit card,Billing
+78,2023-03-20,Student loan,Collections
+79,2023-03-21,Mortgage,Fees
+80,2023-03-22,Mortgage,Collections
+81,2023-03-23,Credit card,Collections
+82,2023-03-24,Mortgage,Billing
+83,2023-03-25,Mortgage,Billing
+84,2023-03-26,Credit card,Collections
+85,2023-03-27,Mortgage,Collections
+86,2023-03-28,Credit card,Collections
+87,2023-03-29,Student loan,Fees
+88,2023-03-30,Credit card,Billing
+89,2023-03-31,Mortgage,Collections
+90,2023-04-01,Student loan,Billing
+91,2023-04-02,Mortgage,Billing
+92,2023-04-03,Credit card,Collections
+93,2023-04-04,Mortgage,Collections
+94,2023-04-05,Student loan,Collections
+95,2023-04-06,Student loan,Fees
+96,2023-04-07,Student loan,Fees
+97,2023-04-08,Credit card,Billing
+98,2023-04-09,Mortgage,Fees
+99,2023-04-10,Credit card,Collections
+100,2023-04-11,Credit card,Collections
+101,2023-04-12,Mortgage,Fees
+102,2023-04-13,Mortgage,Billing
+103,2023-04-14,Credit card,Billing
+104,2023-04-15,Credit card,Billing
+105,2023-04-16,Credit card,Fees
+106,2023-04-17,Mortgage,Collections
+107,2023-04-18,Credit card,Billing
+108,2023-04-19,Mortgage,Billing
+109,2023-04-20,Student loan,Billing
+110,2023-04-21,Mortgage,Billing
+111,2023-04-22,Credit card,Collections
+112,2023-04-23,Student loan,Collections
+113,2023-04-24,Student loan,Collections
+114,2023-04-25,Credit card,Billing
+115,2023-04-26,Mortgage,Collections
+116,2023-04-27,Student loan,Fees
+117,2023-04-28,Credit card,Collections
+118,2023-04-29,Credit card,Collections
+119,2023-04-30,Credit card,Collections
+120,2023-05-01,Student loan,Billing
+121,2023-05-02,Mortgage,Fees
+122,2023-05-03,Mortgage,Fees
+123,2023-05-04,Student loan,Collections
+124,2023-05-05,Mortgage,Billing
+125,2023-05-06,Mortgage,Fees
+126,2023-05-07,Mortgage,Billing
+127,2023-05-08,Student loan,Collections
+128,2023-05-09,Credit card,Fees
+129,2023-05-10,Mortgage,Billing
+130,2023-05-11,Student loan,Billing
+131,2023-05-12,Student loan,Collections
+132,2023-05-13,Student loan,Fees
+133,2023-05-14,Student loan,Fees
+134,2023-05-15,Credit card,Fees
+135,2023-05-16,Mortgage,Fees
+136,2023-05-17,Mortgage,Billing
+137,2023-05-18,Mortgage,Collections
+138,2023-05-19,Credit card,Fees
+139,2023-05-20,Student loan,Collections
+140,2023-05-21,Credit card,Billing
+141,2023-05-22,Credit card,Collections
+142,2023-05-23,Student loan,Fees
+143,2023-05-24,Credit card,Collections
+144,2023-05-25,Credit card,Billing
+145,2023-05-26,Student loan,Collections
+146,2023-05-27,Credit card,Collections
+147,2023-05-28,Student loan,Billing
+148,2023-05-29,Mortgage,Collections
+149,2023-05-30,Credit card,Collections
+150,2023-05-31,Student loan,Fees
+151,2023-06-01,Credit card,Collections
+152,2023-06-02,Student loan,Collections
+153,2023-06-03,Credit card,Billing
+154,2023-06-04,Credit card,Collections
+155,2023-06-05,Student loan,Collections
+156,2023-06-06,Mortgage,Fees
+157,2023-06-07,Credit card,Billing
+158,2023-06-08,Student loan,Fees
+159,2023-06-09,Mortgage,Billing
+160,2023-06-10,Credit card,Collections
+161,2023-06-11,Credit card,Collections
+162,2023-06-12,Credit card,Collections
+163,2023-06-13,Student loan,Collections
+164,2023-06-14,Mortgage,Collections
+165,2023-06-15,Credit card,Billing
+166,2023-06-16,Mortgage,Collections
+167,2023-06-17,Mortgage,Collections
+168,2023-06-18,Student loan,Billing
+169,2023-06-19,Credit card,Fees
+170,2023-06-20,Credit card,Fees
+171,2023-06-21,Mortgage,Collections
+172,2023-06-22,Student loan,Collections
+173,2023-06-23,Student loan,Billing
+174,2023-06-24,Credit card,Collections
+175,2023-06-25,Credit card,Billing
+176,2023-06-26,Student loan,Collections
+177,2023-06-27,Student loan,Fees
+178,2023-06-28,Student loan,Fees
+179,2023-06-29,Credit card,Fees
+180,2023-06-30,Student loan,Fees
+181,2023-07-01,Student loan,Fees
+182,2023-07-02,Mortgage,Billing
+183,2023-07-03,Student loan,Fees
+184,2023-07-04,Student loan,Billing
+185,2023-07-05,Mortgage,Fees
+186,2023-07-06,Mortgage,Collections
+187,2023-07-07,Student loan,Fees
+188,2023-07-08,Credit card,Fees
+189,2023-07-09,Student loan,Collections
+190,2023-07-10,Credit card,Collections
+191,2023-07-11,Student loan,Billing
+192,2023-07-12,Credit card,Billing
+193,2023-07-13,Student loan,Fees
+194,2023-07-14,Credit card,Billing
+195,2023-07-15,Mortgage,Billing
+196,2023-07-16,Student loan,Billing
+197,2023-07-17,Credit card,Fees
+198,2023-07-18,Student loan,Fees
+199,2023-07-19,Student loan,Billing
+200,2023-07-20,Mortgage,Fees
+201,2023-07-21,Credit card,Fees
+202,2023-07-22,Mortgage,Collections
+203,2023-07-23,Mortgage,Collections
+204,2023-07-24,Credit card,Collections
+205,2023-07-25,Mortgage,Fees
+206,2023-07-26,Credit card,Fees
+207,2023-07-27,Student loan,Collections
+208,2023-07-28,Credit card,Collections
+209,2023-07-29,Credit card,Collections
+210,2023-07-30,Student loan,Collections
+211,2023-07-31,Mortgage,Billing
+212,2023-08-01,Credit card,Billing
+213,2023-08-02,Student loan,Collections
+214,2023-08-03,Student loan,Fees
+215,2023-08-04,Mortgage,Fees
+216,2023-08-05,Credit card,Fees
+217,2023-08-06,Student loan,Fees
+218,2023-08-07,Student loan,Fees
+219,2023-08-08,Student loan,Fees
+220,2023-08-09,Mortgage,Collections
+221,2023-08-10,Student loan,Collections
+222,2023-08-11,Mortgage,Billing
+223,2023-08-12,Credit card,Billing
+224,2023-08-13,Credit card,Billing
+225,2023-08-14,Credit card,Billing
+226,2023-08-15,Student loan,Billing
+227,2023-08-16,Mortgage,Collections
+228,2023-08-17,Student loan,Fees
+229,2023-08-18,Student loan,Collections
+230,2023-08-19,Mortgage,Billing
+231,2023-08-20,Student loan,Fees
+232,2023-08-21,Credit card,Billing
+233,2023-08-22,Student loan,Fees
+234,2023-08-23,Credit card,Billing
+235,2023-08-24,Student loan,Fees
+236,2023-08-25,Mortgage,Fees
+237,2023-08-26,Credit card,Collections
+238,2023-08-27,Credit card,Billing
+239,2023-08-28,Mortgage,Fees
+240,2023-08-29,Student loan,Collections
+241,2023-08-30,Student loan,Collections
+242,2023-08-31,Student loan,Billing
+243,2023-09-01,Credit card,Fees
+244,2023-09-02,Credit card,Billing
+245,2023-09-03,Mortgage,Fees
+246,2023-09-04,Student loan,Collections
+247,2023-09-05,Credit card,Collections
+248,2023-09-06,Student loan,Collections
+249,2023-09-07,Mortgage,Fees
+250,2023-09-08,Mortgage,Billing
+251,2023-09-09,Mortgage,Collections
+252,2023-09-10,Mortgage,Billing
+253,2023-09-11,Credit card,Collections
+254,2023-09-12,Credit card,Billing
+255,2023-09-13,Student loan,Billing
+256,2023-09-14,Credit card,Fees
+257,2023-09-15,Mortgage,Fees
+258,2023-09-16,Mortgage,Collections
+259,2023-09-17,Credit card,Fees
+260,2023-09-18,Credit card,Fees
+261,2023-09-19,Student loan,Fees
+262,2023-09-20,Student loan,Fees
+263,2023-09-21,Credit card,Fees
+264,2023-09-22,Mortgage,Billing
+265,2023-09-23,Student loan,Fees
+266,2023-09-24,Student loan,Fees
+267,2023-09-25,Credit card,Fees
+268,2023-09-26,Mortgage,Billing
+269,2023-09-27,Credit card,Fees
+270,2023-09-28,Credit card,Collections
+271,2023-09-29,Student loan,Fees
+272,2023-09-30,Credit card,Fees
+273,2023-10-01,Mortgage,Billing
+274,2023-10-02,Mortgage,Collections
+275,2023-10-03,Student loan,Collections
+276,2023-10-04,Credit card,Fees
+277,2023-10-05,Credit card,Collections
+278,2023-10-06,Credit card,Fees
+279,2023-10-07,Mortgage,Fees
+280,2023-10-08,Credit card,Collections
+281,2023-10-09,Student loan,Collections
+282,2023-10-10,Student loan,Collections
+283,2023-10-11,Credit card,Collections
+284,2023-10-12,Credit card,Fees
+285,2023-10-13,Credit card,Fees
+286,2023-10-14,Mortgage,Fees
+287,2023-10-15,Student loan,Collections
+288,2023-10-16,Credit card,Collections
+289,2023-10-17,Credit card,Billing
+290,2023-10-18,Mortgage,Fees
+291,2023-10-19,Mortgage,Collections
+292,2023-10-20,Student loan,Fees
+293,2023-10-21,Student loan,Fees
+294,2023-10-22,Credit card,Collections
+295,2023-10-23,Credit card,Fees
+296,2023-10-24,Student loan,Billing
+297,2023-10-25,Credit card,Fees
+298,2023-10-26,Mortgage,Billing
+299,2023-10-27,Mortgage,Collections
+300,2023-10-28,Mortgage,Fees
+301,2023-10-29,Credit card,Fees
+302,2023-10-30,Mortgage,Fees
+303,2023-10-31,Mortgage,Billing
+304,2023-11-01,Credit card,Billing
+305,2023-11-02,Mortgage,Fees
+306,2023-11-03,Student loan,Collections
+307,2023-11-04,Mortgage,Billing
+308,2023-11-05,Mortgage,Fees
+309,2023-11-06,Student loan,Fees
+310,2023-11-07,Credit card,Billing
+311,2023-11-08,Mortgage,Collections
+312,2023-11-09,Student loan,Billing
+313,2023-11-10,Mortgage,Billing
+314,2023-11-11,Credit card,Billing
+315,2023-11-12,Mortgage,Billing
+316,2023-11-13,Mortgage,Fees
+317,2023-11-14,Student loan,Billing
+318,2023-11-15,Mortgage,Fees
+319,2023-11-16,Student loan,Collections
+320,2023-11-17,Student loan,Collections
+321,2023-11-18,Student loan,Billing
+322,2023-11-19,Mortgage,Fees
+323,2023-11-20,Credit card,Billing
+324,2023-11-21,Mortgage,Collections
+325,2023-11-22,Credit card,Billing
+326,2023-11-23,Mortgage,Billing
+327,2023-11-24,Credit card,Billing
+328,2023-11-25,Mortgage,Collections
+329,2023-11-26,Student loan,Fees
+330,2023-11-27,Student loan,Fees
+331,2023-11-28,Mortgage,Billing
+332,2023-11-29,Student loan,Collections
+333,2023-11-30,Student loan,Fees
+334,2023-12-01,Credit card,Collections
+335,2023-12-02,Student loan,Fees
+336,2023-12-03,Student loan,Billing
+337,2023-12-04,Credit card,Billing
+338,2023-12-05,Mortgage,Collections
+339,2023-12-06,Mortgage,Collections
+340,2023-12-07,Student loan,Fees
+341,2023-12-08,Mortgage,Billing
+342,2023-12-09,Credit card,Fees
+343,2023-12-10,Mortgage,Billing
+344,2023-12-11,Mortgage,Billing
+345,2023-12-12,Student loan,Billing
+346,2023-12-13,Credit card,Fees
+347,2023-12-14,Student loan,Billing
+348,2023-12-15,Mortgage,Collections
+349,2023-12-16,Student loan,Collections
+350,2023-12-17,Credit card,Collections
+351,2023-12-18,Mortgage,Billing
+352,2023-12-19,Student loan,Fees
+353,2023-12-20,Student loan,Collections
+354,2023-12-21,Student loan,Billing
+355,2023-12-22,Credit card,Fees
+356,2023-12-23,Mortgage,Collections
+357,2023-12-24,Student loan,Billing
+358,2023-12-25,Mortgage,Fees
+359,2023-12-26,Mortgage,Billing
+360,2023-12-27,Mortgage,Fees
+361,2023-12-28,Mortgage,Fees
+362,2023-12-29,Credit card,Billing
+363,2023-12-30,Student loan,Billing
+364,2023-12-31,Credit card,Fees
+365,2024-01-01,Student loan,Fees
+366,2024-01-02,Student loan,Collections
+367,2024-01-03,Student loan,Billing
+368,2024-01-04,Student loan,Fees
+369,2024-01-05,Mortgage,Billing
+370,2024-01-06,Mortgage,Billing
+371,2024-01-07,Mortgage,Fees
+372,2024-01-08,Credit card,Collections
+373,2024-01-09,Mortgage,Fees
+374,2024-01-10,Student loan,Collections
+375,2024-01-11,Credit card,Fees
+376,2024-01-12,Credit card,Collections
+377,2024-01-13,Student loan,Billing
+378,2024-01-14,Mortgage,Fees
+379,2024-01-15,Credit card,Fees
+380,2024-01-16,Student loan,Collections
+381,2024-01-17,Student loan,Fees
+382,2024-01-18,Mortgage,Fees
+383,2024-01-19,Mortgage,Collections
+384,2024-01-20,Student loan,Fees
+385,2024-01-21,Student loan,Fees
+386,2024-01-22,Student loan,Collections
+387,2024-01-23,Credit card,Fees
+388,2024-01-24,Mortgage,Fees
+389,2024-01-25,Credit card,Collections
+390,2024-01-26,Student loan,Fees
+391,2024-01-27,Mortgage,Fees
+392,2024-01-28,Credit card,Billing
+393,2024-01-29,Credit card,Fees
+394,2024-01-30,Student loan,Fees
+395,2024-01-31,Mortgage,Collections
+396,2024-02-01,Mortgage,Collections
+397,2024-02-02,Student loan,Fees
+398,2024-02-03,Student loan,Fees
+399,2024-02-04,Student loan,Fees
+400,2024-02-05,Mortgage,Billing
+401,2024-02-06,Credit card,Billing
+402,2024-02-07,Student loan,Billing
+403,2024-02-08,Credit card,Billing
+404,2024-02-09,Credit card,Collections
+405,2024-02-10,Credit card,Collections
+406,2024-02-11,Credit card,Collections
+407,2024-02-12,Mortgage,Billing
+408,2024-02-13,Mortgage,Fees
+409,2024-02-14,Credit card,Collections
+410,2024-02-15,Credit card,Collections
+411,2024-02-16,Student loan,Billing
+412,2024-02-17,Mortgage,Billing
+413,2024-02-18,Credit card,Fees
+414,2024-02-19,Mortgage,Fees
+415,2024-02-20,Mortgage,Billing
+416,2024-02-21,Student loan,Billing
+417,2024-02-22,Credit card,Fees
+418,2024-02-23,Student loan,Billing
+419,2024-02-24,Mortgage,Fees
+420,2024-02-25,Mortgage,Fees
+421,2024-02-26,Credit card,Collections
+422,2024-02-27,Student loan,Fees
+423,2024-02-28,Student loan,Collections
+424,2024-02-29,Student loan,Collections
+425,2024-03-01,Mortgage,Fees
+426,2024-03-02,Credit card,Collections
+427,2024-03-03,Student loan,Billing
+428,2024-03-04,Mortgage,Fees
+429,2024-03-05,Mortgage,Fees
+430,2024-03-06,Student loan,Collections
+431,2024-03-07,Mortgage,Billing
+432,2024-03-08,Student loan,Collections
+433,2024-03-09,Student loan,Collections
+434,2024-03-10,Student loan,Fees
+435,2024-03-11,Credit card,Fees
+436,2024-03-12,Mortgage,Billing
+437,2024-03-13,Student loan,Fees
+438,2024-03-14,Student loan,Billing
+439,2024-03-15,Mortgage,Fees
+440,2024-03-16,Credit card,Collections
+441,2024-03-17,Student loan,Collections
+442,2024-03-18,Student loan,Billing
+443,2024-03-19,Mortgage,Fees
+444,2024-03-20,Mortgage,Fees
+445,2024-03-21,Mortgage,Fees
+446,2024-03-22,Credit card,Collections
+447,2024-03-23,Student loan,Fees
+448,2024-03-24,Credit card,Fees
+449,2024-03-25,Mortgage,Fees
+450,2024-03-26,Student loan,Collections
+451,2024-03-27,Credit card,Fees
+452,2024-03-28,Credit card,Billing
+453,2024-03-29,Credit card,Collections
+454,2024-03-30,Credit card,Fees
+455,2024-03-31,Mortgage,Billing
+456,2024-04-01,Student loan,Fees
+457,2024-04-02,Student loan,Collections
+458,2024-04-03,Mortgage,Fees
+459,2024-04-04,Credit card,Collections
+460,2024-04-05,Credit card,Fees
+461,2024-04-06,Student loan,Fees
+462,2024-04-07,Student loan,Billing
+463,2024-04-08,Mortgage,Collections
+464,2024-04-09,Mortgage,Fees
+465,2024-04-10,Mortgage,Collections
+466,2024-04-11,Mortgage,Collections
+467,2024-04-12,Credit card,Collections
+468,2024-04-13,Student loan,Billing
+469,2024-04-14,Mortgage,Collections
+470,2024-04-15,Mortgage,Collections
+471,2024-04-16,Credit card,Billing
+472,2024-04-17,Credit card,Billing
+473,2024-04-18,Mortgage,Fees
+474,2024-04-19,Credit card,Collections
+475,2024-04-20,Mortgage,Fees
+476,2024-04-21,Mortgage,Fees
+477,2024-04-22,Mortgage,Fees
+478,2024-04-23,Student loan,Fees
+479,2024-04-24,Credit card,Fees
+480,2024-04-25,Credit card,Collections
+481,2024-04-26,Mortgage,Billing
+482,2024-04-27,Credit card,Fees
+483,2024-04-28,Student loan,Collections
+484,2024-04-29,Mortgage,Billing
+485,2024-04-30,Mortgage,Billing
+486,2024-05-01,Credit card,Billing
+487,2024-05-02,Mortgage,Collections
+488,2024-05-03,Student loan,Fees
+489,2024-05-04,Credit card,Collections
+490,2024-05-05,Credit card,Collections
+491,2024-05-06,Student loan,Billing
+492,2024-05-07,Credit card,Fees
+493,2024-05-08,Credit card,Collections
+494,2024-05-09,Mortgage,Collections
+495,2024-05-10,Mortgage,Collections
+496,2024-05-11,Student loan,Billing
+497,2024-05-12,Student loan,Fees
+498,2024-05-13,Mortgage,Billing
+499,2024-05-14,Credit card,Fees
+500,2024-05-15,Student loan,Billing
+501,2024-05-16,Student loan,Billing
+502,2024-05-17,Student loan,Fees
+503,2024-05-18,Credit card,Fees
+504,2024-05-19,Credit card,Collections
+505,2024-05-20,Mortgage,Billing
+506,2024-05-21,Credit card,Fees
+507,2024-05-22,Credit card,Collections
+508,2024-05-23,Credit card,Collections
+509,2024-05-24,Student loan,Fees
+510,2024-05-25,Mortgage,Billing
+511,2024-05-26,Credit card,Billing
+512,2024-05-27,Mortgage,Collections
+513,2024-05-28,Student loan,Billing
+514,2024-05-29,Credit card,Collections
+515,2024-05-30,Student loan,Collections
+516,2024-05-31,Credit card,Fees
+517,2024-06-01,Student loan,Fees
+518,2024-06-02,Mortgage,Collections
+519,2024-06-03,Mortgage,Billing
+520,2024-06-04,Credit card,Fees
+521,2024-06-05,Credit card,Fees
+522,2024-06-06,Mortgage,Billing
+523,2024-06-07,Mortgage,Billing
+524,2024-06-08,Student loan,Fees
+525,2024-06-09,Credit card,Fees
+526,2024-06-10,Credit card,Collections
+527,2024-06-11,Mortgage,Fees
+528,2024-06-12,Mortgage,Billing
+529,2024-06-13,Mortgage,Fees
+530,2024-06-14,Student loan,Fees
+531,2024-06-15,Student loan,Billing
+532,2024-06-16,Student loan,Billing
+533,2024-06-17,Mortgage,Billing
+534,2024-06-18,Credit card,Billing
+535,2024-06-19,Student loan,Fees
+536,2024-06-20,Credit card,Billing
+537,2024-06-21,Credit card,Collections
+538,2024-06-22,Credit card,Billing
+539,2024-06-23,Student loan,Fees
+540,2024-06-24,Mortgage,Billing
+541,2024-06-25,Student loan,Fees
+542,2024-06-26,Credit card,Collections
+543,2024-06-27,Credit card,Billing
+544,2024-06-28,Student loan,Collections
+545,2024-06-29,Student loan,Collections
+546,2024-06-30,Credit card,Collections
+547,2024-07-01,Credit card,Fees
+548,2024-07-02,Credit card,Fees
+549,2024-07-03,Credit card,Fees
+550,2024-07-04,Mortgage,Fees
+551,2024-07-05,Student loan,Billing
+552,2024-07-06,Student loan,Fees
+553,2024-07-07,Credit card,Billing
+554,2024-07-08,Student loan,Billing
+555,2024-07-09,Mortgage,Fees
+556,2024-07-10,Student loan,Fees
+557,2024-07-11,Mortgage,Fees
+558,2024-07-12,Mortgage,Fees
+559,2024-07-13,Student loan,Billing
+560,2024-07-14,Mortgage,Collections
+561,2024-07-15,Mortgage,Collections
+562,2024-07-16,Mortgage,Billing
+563,2024-07-17,Mortgage,Fees
+564,2024-07-18,Mortgage,Fees
+565,2024-07-19,Credit card,Billing
+566,2024-07-20,Student loan,Fees
+567,2024-07-21,Credit card,Fees
+568,2024-07-22,Credit card,Fees
+569,2024-07-23,Student loan,Collections
+570,2024-07-24,Mortgage,Fees
+571,2024-07-25,Student loan,Billing
+572,2024-07-26,Student loan,Collections
+573,2024-07-27,Credit card,Billing
+574,2024-07-28,Student loan,Collections
+575,2024-07-29,Credit card,Collections
+576,2024-07-30,Student loan,Fees
+577,2024-07-31,Mortgage,Fees
+578,2024-08-01,Credit card,Collections
+579,2024-08-02,Mortgage,Billing
+580,2024-08-03,Student loan,Collections
+581,2024-08-04,Student loan,Fees
+582,2024-08-05,Credit card,Billing
+583,2024-08-06,Student loan,Collections
+584,2024-08-07,Student loan,Billing
+585,2024-08-08,Credit card,Fees
+586,2024-08-09,Student loan,Billing
+587,2024-08-10,Student loan,Collections
+588,2024-08-11,Credit card,Billing
+589,2024-08-12,Student loan,Fees
+590,2024-08-13,Credit card,Billing
+591,2024-08-14,Mortgage,Billing
+592,2024-08-15,Credit card,Billing
+593,2024-08-16,Student loan,Collections
+594,2024-08-17,Student loan,Collections
+595,2024-08-18,Credit card,Billing
+596,2024-08-19,Student loan,Fees
+597,2024-08-20,Credit card,Billing
+598,2024-08-21,Student loan,Fees
+599,2024-08-22,Student loan,Collections
+600,2024-08-23,Credit card,Billing
+601,2024-08-24,Credit card,Collections
+602,2024-08-25,Credit card,Collections
+603,2024-08-26,Credit card,Collections
+604,2024-08-27,Credit card,Billing
+605,2024-08-28,Mortgage,Billing
+606,2024-08-29,Mortgage,Fees
+607,2024-08-30,Credit card,Collections
+608,2024-08-31,Credit card,Collections
+609,2024-09-01,Mortgage,Fees
+610,2024-09-02,Credit card,Collections
+611,2024-09-03,Mortgage,Billing
+612,2024-09-04,Student loan,Fees
+613,2024-09-05,Student loan,Billing
+614,2024-09-06,Student loan,Billing
+615,2024-09-07,Student loan,Collections
+616,2024-09-08,Credit card,Fees
+617,2024-09-09,Mortgage,Collections
+618,2024-09-10,Credit card,Collections
+619,2024-09-11,Student loan,Collections
+620,2024-09-12,Student loan,Collections
+621,2024-09-13,Credit card,Billing
+622,2024-09-14,Student loan,Billing
+623,2024-09-15,Mortgage,Fees
+624,2024-09-16,Credit card,Collections
+625,2024-09-17,Student loan,Fees
+626,2024-09-18,Credit card,Fees
+627,2024-09-19,Mortgage,Billing
+628,2024-09-20,Mortgage,Fees
+629,2024-09-21,Mortgage,Billing
+630,2024-09-22,Credit card,Collections
+631,2024-09-23,Student loan,Billing
+632,2024-09-24,Credit card,Collections
+633,2024-09-25,Mortgage,Collections
+634,2024-09-26,Student loan,Billing
+635,2024-09-27,Credit card,Billing
+636,2024-09-28,Student loan,Fees
+637,2024-09-29,Student loan,Billing
+638,2024-09-30,Credit card,Fees
+639,2024-10-01,Mortgage,Billing
+640,2024-10-02,Student loan,Fees
+641,2024-10-03,Credit card,Billing
+642,2024-10-04,Student loan,Billing
+643,2024-10-05,Student loan,Collections
+644,2024-10-06,Credit card,Collections
+645,2024-10-07,Student loan,Billing
+646,2024-10-08,Mortgage,Collections
+647,2024-10-09,Credit card,Fees
+648,2024-10-10,Credit card,Collections
+649,2024-10-11,Credit card,Billing
+650,2024-10-12,Credit card,Collections
+651,2024-10-13,Mortgage,Collections
+652,2024-10-14,Credit card,Billing
+653,2024-10-15,Student loan,Fees
+654,2024-10-16,Student loan,Fees
+655,2024-10-17,Mortgage,Collections
+656,2024-10-18,Credit card,Fees
+657,2024-10-19,Student loan,Billing
+658,2024-10-20,Mortgage,Billing
+659,2024-10-21,Student loan,Collections
+660,2024-10-22,Student loan,Collections
+661,2024-10-23,Credit card,Collections
+662,2024-10-24,Student loan,Billing
+663,2024-10-25,Credit card,Collections
+664,2024-10-26,Student loan,Collections
+665,2024-10-27,Credit card,Billing
+666,2024-10-28,Mortgage,Collections
+667,2024-10-29,Mortgage,Billing
+668,2024-10-30,Student loan,Fees
+669,2024-10-31,Mortgage,Collections
+670,2024-11-01,Credit card,Fees
+671,2024-11-02,Student loan,Collections
+672,2024-11-03,Credit card,Collections
+673,2024-11-04,Credit card,Fees
+674,2024-11-05,Credit card,Collections
+675,2024-11-06,Mortgage,Collections
+676,2024-11-07,Credit card,Collections
+677,2024-11-08,Mortgage,Fees
+678,2024-11-09,Credit card,Collections
+679,2024-11-10,Student loan,Billing
+680,2024-11-11,Student loan,Fees
+681,2024-11-12,Student loan,Billing
+682,2024-11-13,Student loan,Billing
+683,2024-11-14,Credit card,Fees
+684,2024-11-15,Credit card,Fees
+685,2024-11-16,Mortgage,Fees
+686,2024-11-17,Mortgage,Billing
+687,2024-11-18,Student loan,Fees
+688,2024-11-19,Mortgage,Fees
+689,2024-11-20,Student loan,Billing
+690,2024-11-21,Student loan,Collections
+691,2024-11-22,Credit card,Fees
+692,2024-11-23,Mortgage,Collections
+693,2024-11-24,Credit card,Billing
+694,2024-11-25,Credit card,Fees
+695,2024-11-26,Credit card,Collections
+696,2024-11-27,Mortgage,Collections
+697,2024-11-28,Credit card,Collections
+698,2024-11-29,Mortgage,Fees
+699,2024-11-30,Student loan,Collections
+700,2024-12-01,Student loan,Billing
+701,2024-12-02,Student loan,Fees
+702,2024-12-03,Mortgage,Fees
+703,2024-12-04,Student loan,Billing
+704,2024-12-05,Student loan,Fees
+705,2024-12-06,Mortgage,Collections
+706,2024-12-07,Mortgage,Fees
+707,2024-12-08,Mortgage,Billing
+708,2024-12-09,Mortgage,Collections
+709,2024-12-10,Credit card,Fees
+710,2024-12-11,Student loan,Billing
+711,2024-12-12,Mortgage,Fees
+712,2024-12-13,Student loan,Fees
+713,2024-12-14,Student loan,Billing
+714,2024-12-15,Credit card,Fees
+715,2024-12-16,Student loan,Billing
+716,2024-12-17,Student loan,Fees
+717,2024-12-18,Mortgage,Billing
+718,2024-12-19,Credit card,Fees
+719,2024-12-20,Mortgage,Billing
+720,2024-12-21,Mortgage,Fees
+721,2024-12-22,Credit card,Billing
+722,2024-12-23,Mortgage,Collections
+723,2024-12-24,Mortgage,Billing
+724,2024-12-25,Student loan,Billing
+725,2024-12-26,Student loan,Fees
+726,2024-12-27,Credit card,Collections
+727,2024-12-28,Mortgage,Collections
+728,2024-12-29,Mortgage,Fees
+729,2024-12-30,Credit card,Collections
+730,2024-12-31,Credit card,Collections
+731,2025-01-01,Credit card,Collections
+732,2025-01-02,Credit card,Billing
+733,2025-01-03,Student loan,Fees
+734,2025-01-04,Mortgage,Collections
+735,2025-01-05,Student loan,Collections
+736,2025-01-06,Credit card,Collections
+737,2025-01-07,Mortgage,Fees
+738,2025-01-08,Mortgage,Fees
+739,2025-01-09,Student loan,Collections
+740,2025-01-10,Mortgage,Fees
+741,2025-01-11,Mortgage,Collections
+742,2025-01-12,Student loan,Billing
+743,2025-01-13,Credit card,Fees
+744,2025-01-14,Student loan,Collections
+745,2025-01-15,Student loan,Collections
+746,2025-01-16,Mortgage,Fees
+747,2025-01-17,Credit card,Collections
+748,2025-01-18,Credit card,Billing
+749,2025-01-19,Student loan,Fees
+750,2025-01-20,Student loan,Billing
+751,2025-01-21,Credit card,Collections
+752,2025-01-22,Mortgage,Collections
+753,2025-01-23,Mortgage,Billing
+754,2025-01-24,Student loan,Collections
+755,2025-01-25,Student loan,Fees
+756,2025-01-26,Student loan,Collections
+757,2025-01-27,Credit card,Billing
+758,2025-01-28,Credit card,Collections
+759,2025-01-29,Mortgage,Fees
+760,2025-01-30,Mortgage,Collections
+761,2025-01-31,Student loan,Fees
+762,2025-02-01,Student loan,Collections
+763,2025-02-02,Student loan,Collections
+764,2025-02-03,Student loan,Collections
+765,2025-02-04,Credit card,Fees
+766,2025-02-05,Mortgage,Billing
+767,2025-02-06,Credit card,Collections
+768,2025-02-07,Student loan,Fees
+769,2025-02-08,Credit card,Fees
+770,2025-02-09,Credit card,Fees
+771,2025-02-10,Student loan,Fees
+772,2025-02-11,Credit card,Collections
+773,2025-02-12,Mortgage,Billing
+774,2025-02-13,Student loan,Billing
+775,2025-02-14,Student loan,Fees
+776,2025-02-15,Credit card,Billing
+777,2025-02-16,Credit card,Billing
+778,2025-02-17,Credit card,Fees
+779,2025-02-18,Student loan,Collections
+780,2025-02-19,Mortgage,Collections
+781,2025-02-20,Mortgage,Billing
+782,2025-02-21,Student loan,Fees
+783,2025-02-22,Student loan,Fees
+784,2025-02-23,Mortgage,Billing
+785,2025-02-24,Mortgage,Collections
+786,2025-02-25,Student loan,Fees
+787,2025-02-26,Mortgage,Collections
+788,2025-02-27,Mortgage,Fees
+789,2025-02-28,Student loan,Collections
+790,2025-03-01,Mortgage,Billing
+791,2025-03-02,Student loan,Fees
+792,2025-03-03,Credit card,Billing
+793,2025-03-04,Credit card,Collections
+794,2025-03-05,Credit card,Collections
+795,2025-03-06,Credit card,Billing
+796,2025-03-07,Student loan,Collections
+797,2025-03-08,Student loan,Collections
+798,2025-03-09,Credit card,Billing
+799,2025-03-10,Credit card,Collections
+800,2025-03-11,Mortgage,Fees
+801,2025-03-12,Mortgage,Collections
+802,2025-03-13,Student loan,Fees
+803,2025-03-14,Student loan,Collections
+804,2025-03-15,Student loan,Fees
+805,2025-03-16,Student loan,Billing
+806,2025-03-17,Student loan,Collections
+807,2025-03-18,Student loan,Collections
+808,2025-03-19,Mortgage,Collections
+809,2025-03-20,Credit card,Billing
+810,2025-03-21,Credit card,Fees
+811,2025-03-22,Student loan,Billing
+812,2025-03-23,Student loan,Billing
+813,2025-03-24,Student loan,Fees
+814,2025-03-25,Mortgage,Billing
+815,2025-03-26,Credit card,Fees
+816,2025-03-27,Student loan,Billing
+817,2025-03-28,Credit card,Fees
+818,2025-03-29,Credit card,Billing
+819,2025-03-30,Credit card,Billing
+820,2025-03-31,Mortgage,Fees
+821,2025-04-01,Student loan,Fees
+822,2025-04-02,Credit card,Fees
+823,2025-04-03,Mortgage,Billing
+824,2025-04-04,Credit card,Collections
+825,2025-04-05,Mortgage,Billing
+826,2025-04-06,Mortgage,Billing
+827,2025-04-07,Student loan,Collections
+828,2025-04-08,Credit card,Billing
+829,2025-04-09,Credit card,Collections
+830,2025-04-10,Student loan,Billing
+831,2025-04-11,Student loan,Collections
+832,2025-04-12,Credit card,Billing
+833,2025-04-13,Student loan,Billing
+834,2025-04-14,Student loan,Collections
+835,2025-04-15,Student loan,Collections
+836,2025-04-16,Credit card,Collections
+837,2025-04-17,Mortgage,Collections
+838,2025-04-18,Mortgage,Billing
+839,2025-04-19,Student loan,Collections
+840,2025-04-20,Student loan,Billing
+841,2025-04-21,Mortgage,Collections
+842,2025-04-22,Mortgage,Collections
+843,2025-04-23,Mortgage,Collections
+844,2025-04-24,Mortgage,Fees
+845,2025-04-25,Mortgage,Fees
+846,2025-04-26,Student loan,Collections
+847,2025-04-27,Credit card,Billing
+848,2025-04-28,Credit card,Collections
+849,2025-04-29,Mortgage,Fees
+850,2025-04-30,Mortgage,Billing
+851,2025-05-01,Mortgage,Collections
+852,2025-05-02,Mortgage,Collections
+853,2025-05-03,Credit card,Fees
+854,2025-05-04,Credit card,Fees
+855,2025-05-05,Student loan,Fees
+856,2025-05-06,Mortgage,Billing
+857,2025-05-07,Mortgage,Collections
+858,2025-05-08,Credit card,Billing
+859,2025-05-09,Student loan,Billing
+860,2025-05-10,Credit card,Fees
+861,2025-05-11,Credit card,Billing
+862,2025-05-12,Student loan,Billing
+863,2025-05-13,Credit card,Billing
+864,2025-05-14,Mortgage,Billing
+865,2025-05-15,Credit card,Fees
+866,2025-05-16,Mortgage,Billing
+867,2025-05-17,Credit card,Collections
+868,2025-05-18,Credit card,Collections
+869,2025-05-19,Student loan,Fees
+870,2025-05-20,Student loan,Billing
+871,2025-05-21,Student loan,Collections
+872,2025-05-22,Credit card,Fees
+873,2025-05-23,Credit card,Fees
+874,2025-05-24,Mortgage,Billing
+875,2025-05-25,Credit card,Collections
+876,2025-05-26,Mortgage,Billing
+877,2025-05-27,Student loan,Collections
+878,2025-05-28,Mortgage,Collections
+879,2025-05-29,Mortgage,Billing
+880,2025-05-30,Student loan,Collections
+881,2025-05-31,Student loan,Billing
+882,2025-06-01,Student loan,Billing
+883,2025-06-02,Student loan,Billing
+884,2025-06-03,Student loan,Fees
+885,2025-06-04,Credit card,Fees
+886,2025-06-05,Student loan,Fees
+887,2025-06-06,Mortgage,Collections
+888,2025-06-07,Student loan,Fees
+889,2025-06-08,Credit card,Fees
+890,2025-06-09,Credit card,Fees
+891,2025-06-10,Student loan,Collections
+892,2025-06-11,Credit card,Fees
+893,2025-06-12,Mortgage,Billing
+894,2025-06-13,Student loan,Billing
+895,2025-06-14,Mortgage,Collections
+896,2025-06-15,Credit card,Fees
+897,2025-06-16,Mortgage,Billing
+898,2025-06-17,Credit card,Billing
+899,2025-06-18,Mortgage,Billing
+900,2025-06-19,Credit card,Collections
+901,2025-06-20,Student loan,Fees
+902,2025-06-21,Credit card,Fees
+903,2025-06-22,Mortgage,Fees
+904,2025-06-23,Credit card,Billing
+905,2025-06-24,Mortgage,Fees
+906,2025-06-25,Student loan,Fees
+907,2025-06-26,Mortgage,Billing
+908,2025-06-27,Mortgage,Billing
+909,2025-06-28,Mortgage,Fees
+910,2025-06-29,Mortgage,Billing
+911,2025-06-30,Mortgage,Fees
+912,2025-07-01,Credit card,Billing
+913,2025-07-02,Student loan,Fees
+914,2025-07-03,Mortgage,Collections
+915,2025-07-04,Student loan,Fees
+916,2025-07-05,Mortgage,Fees
+917,2025-07-06,Student loan,Billing
+918,2025-07-07,Credit card,Fees
+919,2025-07-08,Student loan,Billing
+920,2025-07-09,Credit card,Fees
+921,2025-07-10,Student loan,Fees
+922,2025-07-11,Mortgage,Billing
+923,2025-07-12,Student loan,Fees
+924,2025-07-13,Credit card,Billing
+925,2025-07-14,Student loan,Fees
+926,2025-07-15,Mortgage,Collections
+927,2025-07-16,Mortgage,Fees
+928,2025-07-17,Credit card,Billing
+929,2025-07-18,Student loan,Billing
+930,2025-07-19,Student loan,Fees
+931,2025-07-20,Mortgage,Billing
+932,2025-07-21,Credit card,Collections
+933,2025-07-22,Student loan,Fees
+934,2025-07-23,Credit card,Collections
+935,2025-07-24,Student loan,Collections
+936,2025-07-25,Student loan,Fees
+937,2025-07-26,Student loan,Billing
+938,2025-07-27,Credit card,Collections
+939,2025-07-28,Mortgage,Billing
+940,2025-07-29,Student loan,Billing
+941,2025-07-30,Mortgage,Fees
+942,2025-07-31,Mortgage,Fees
+943,2025-08-01,Student loan,Fees
+944,2025-08-02,Mortgage,Fees
+945,2025-08-03,Mortgage,Collections
+946,2025-08-04,Mortgage,Billing
+947,2025-08-05,Credit card,Fees
+948,2025-08-06,Credit card,Collections
+949,2025-08-07,Mortgage,Collections
+950,2025-08-08,Credit card,Billing
+951,2025-08-09,Credit card,Collections
+952,2025-08-10,Mortgage,Billing
+953,2025-08-11,Credit card,Billing
+954,2025-08-12,Mortgage,Collections
+955,2025-08-13,Student loan,Billing
+956,2025-08-14,Credit card,Billing
+957,2025-08-15,Mortgage,Collections
+958,2025-08-16,Student loan,Fees
+959,2025-08-17,Mortgage,Collections
+960,2025-08-18,Mortgage,Fees
+961,2025-08-19,Mortgage,Collections
+962,2025-08-20,Mortgage,Billing
+963,2025-08-21,Student loan,Collections
+964,2025-08-22,Credit card,Collections
+965,2025-08-23,Mortgage,Collections
+966,2025-08-24,Mortgage,Fees
+967,2025-08-25,Credit card,Fees
+968,2025-08-26,Credit card,Fees
+969,2025-08-27,Student loan,Billing
+970,2025-08-28,Credit card,Billing
+971,2025-08-29,Mortgage,Billing
+972,2025-08-30,Credit card,Collections
+973,2025-08-31,Mortgage,Collections
+974,2025-09-01,Mortgage,Fees
+975,2025-09-02,Student loan,Collections
+976,2025-09-03,Credit card,Fees
+977,2025-09-04,Mortgage,Collections
+978,2025-09-05,Student loan,Fees
+979,2025-09-06,Credit card,Billing
+980,2025-09-07,Credit card,Collections
+981,2025-09-08,Student loan,Fees
+982,2025-09-09,Mortgage,Collections
+983,2025-09-10,Mortgage,Collections
+984,2025-09-11,Student loan,Collections
+985,2025-09-12,Credit card,Collections
+986,2025-09-13,Credit card,Billing
+987,2025-09-14,Credit card,Billing
+988,2025-09-15,Credit card,Collections
+989,2025-09-16,Credit card,Collections
+990,2025-09-17,Credit card,Billing
+991,2025-09-18,Mortgage,Fees
+992,2025-09-19,Student loan,Fees
+993,2025-09-20,Student loan,Collections
+994,2025-09-21,Mortgage,Fees
+995,2025-09-22,Credit card,Fees
+996,2025-09-23,Credit card,Billing
+997,2025-09-24,Mortgage,Collections
+998,2025-09-25,Credit card,Fees
+999,2025-09-26,Mortgage,Billing
