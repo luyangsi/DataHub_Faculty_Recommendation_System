@@ -52,7 +52,7 @@ Complete Jupyter notebook demonstrating:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dataset-recommender.git
+git clone https://github.com/luyangsi/Research_Dataset_Recommender.git
 cd dataset-recommender
 
 # Install dependencies
